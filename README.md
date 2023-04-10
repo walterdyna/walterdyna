@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there 👋 ----- Olá------ 
 
-Eu sou Walter Dyna, programdor Front End, atualmente estou aprendendo e criando projetos com:
+<h3>I'm, (Sou) Walter Alexander Bastos Dyna...</h3>
+
+Programador Front-End - fututo full-stack, atualmente estou aprendendo e criando projetos com:
+<br>
+I'm, Front-End programmer - future full-stack, I'm currently learning and creating projects with:
 <br>
 <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt= "html-logo-html">
 <br>
@@ -9,11 +13,13 @@ Eu sou Walter Dyna, programdor Front End, atualmente estou aprendendo e criando 
 <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt= "html-logo-JavaScript">
 <br>
 <br>
-:floppy_disk: Ja trabalho como analista de sistema a mais de 12 anos, ja trabelhei como suporte HelpDesk e Coordenador de Implantação em empresa de Soft.:computer:
+:floppy_disk: Já trabalho como analista de sistema a mais de 12 anos, ja trabelhei como suporte HelpDesk e Coordenador de Implantação em empresa de Soft.:computer:
+<br>
+:floppy_disk: I've been working as a system analyst for over 12 years, I've worked as a HelpDesk support and Implementation Coordinator in a Soft company.:computer:
 <br>
 <br>
 <br>
-Entre em contato:
+### Entre em contato: ### Contact: ###
 <br>
 <a href= "https://api.whatsapp.com/send?phone=5527999647264&text=Ola!%20Vamos%20Codar!">
 <img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="html-logo-WhatsApp"> 
