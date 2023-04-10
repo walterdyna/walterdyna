@@ -2,9 +2,9 @@
 
 <h3>I'm, (Sou) Walter Alexander Bastos Dyna...</h3>
 
-Programador Front-End - fututo full-stack, atualmente estou aprendendo e criando projetos com:
+Programador Front-End - fututo Full-stack, atualmente estou aprendendo e criando projetos com:
 <br>
-I'm, Front-End programmer - future full-stack, I'm currently learning and creating projects with:
+I'm, Front-End programmer - future Full-stack, I'm currently learning and creating projects with:
 
 <br>
 <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt= "html-logo-html">
