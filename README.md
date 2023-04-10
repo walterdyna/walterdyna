@@ -5,27 +5,27 @@
 Programador Front-End - fututo full-stack, atualmente estou aprendendo e criando projetos com:
 <br>
 I'm, Front-End programmer - future full-stack, I'm currently learning and creating projects with:
+
 <br>
 <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt= "html-logo-html">
-<br>
 <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt= "html-logo-CSS">
-<br>
 <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt= "html-logo-JavaScript">
-<br>
-<br>
+<img src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt= "html-logo-C" style = "border-radius:30px;">
+
+
 :floppy_disk: Já trabalho como analista de sistema a mais de 12 anos, ja trabelhei como suporte HelpDesk e Coordenador de Implantação em empresa de Soft.:computer:
 <br>
 :floppy_disk: I've been working as a system analyst for over 12 years, I've worked as a HelpDesk support and Implementation Coordinator in a Soft company.:computer:
+
 <br>
 <br>
 <br>
 ### Entre em contato: ### Contact: ###
 <br>
-<a href= "https://api.whatsapp.com/send?phone=5527999647264&text=Ola!%20Vamos%20Codar!">
-<img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="html-logo-WhatsApp"> 
-
+<a href= "https://api.whatsapp.com/send?phone=5527999647264&text=Ola!%20Vamos%20Codar!"><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="html-logo-WhatsApp"> 
+<br>
 <a href= "https://www.facebook.com/wdyna"><img src= "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="html-logo-face">
-
+<br>
 <a href= "https://www.linkedin.com/in/walterdyna"/><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html-linkendin">
 
 
