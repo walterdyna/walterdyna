@@ -7,10 +7,11 @@ Programador Front-End - fututo Full-stack, atualmente estou aprendendo e criando
 I'm, Front-End programmer - future Full-stack, I'm currently learning and creating projects with:
 
 <br>
-<img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt= "html-logo-html"> - <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt= "html-logo-CSS">
+<img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt= "html-logo-html" style = "border-radius:30px;">
+<img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt= "html-logo-CSS" style = "border-radius:30px;">
 <img src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt= "html-logo-C" style = "border-radius:30px;">
-<img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt= "html-logo-JavaScript">
-<img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt= "html-logo-JavaScript">
+<img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt= "html-logo-JavaScript" style = "border-radius:30px;">
+<img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt= "html-logo-JavaScript" style = "border-radius:30px;">
 
 :floppy_disk: Já trabalho como analista de sistema a mais de 12 anos, ja trabelhei como suporte HelpDesk e Coordenador de Implantação em empresa de Soft.:computer:
 <br>
