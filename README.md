@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6vJ9u9lf8VLDq/giphy.gif" alt="coding gif" width="300"/>
-</p>
 
 # 👋 Hi there! | Olá!
 
