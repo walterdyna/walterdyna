@@ -5,7 +5,8 @@
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
-Desenvolvedor Front-End em transição para Full-Stack.  
+Dev Full Stack Sênior | Node.js · React · MongoDB | +15 anos em TI
+
 Atualmente focado em criar projetos práticos enquanto aprofundo meu conhecimento em tecnologias web modernas.
 
 > Front-End Developer transitioning to Full-Stack.  
