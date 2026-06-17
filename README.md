@@ -114,13 +114,13 @@ Atualmente focado em criar projetos práticos enquanto aprofundo meu conheciment
   <p><b>JavaScript</b> - 80% &nbsp;&nbsp;&nbsp; <small>e subindo 🚀</small></p>
   <progress value="80" max="100" style="width: 100%; height: 20px; border-radius: 8px;"></progress>
 
-  <p><b>React</b> - 50% &nbsp;&nbsp;&nbsp; <small>e subindo 🚀</small></p>
+  <p><b>React</b> - 80% &nbsp;&nbsp;&nbsp; <small>e subindo 🚀</small></p>
   <progress value="50" max="100" style="width: 100%; height: 20px; border-radius: 8px;"></progress>
 
-  <p><b>Node.js</b> - 50% &nbsp;&nbsp;&nbsp; <small>e subindo 🚀</small></p>
+  <p><b>Node.js</b> - 80% &nbsp;&nbsp;&nbsp; <small>e subindo 🚀</small></p>
   <progress value="50" max="100" style="width: 100%; height: 20px; border-radius: 8px;"></progress>
 
-  <p><b>MongoDB</b> - 50% &nbsp;&nbsp;&nbsp; <small>e subindo 🚀</small></p>
+  <p><b>MongoDB</b> - 80% &nbsp;&nbsp;&nbsp; <small>e subindo 🚀</small></p>
   <progress value="50" max="100" style="width: 100%; height: 20px; border-radius: 8px;"></progress>
 </div>
 
